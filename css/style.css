@@ -17,7 +17,6 @@ body {
 .carousel-container {
   max-width: 80rem;
   height: 50rem;
-  border: 1px solid red;
   margin: 5rem auto;
   position: relative;
 }
@@ -49,6 +48,7 @@ img.img {
   height: 100%;
   object-fit: cover;
   display: none;
+  object-position: center;
 }
 
 img.img.active {
