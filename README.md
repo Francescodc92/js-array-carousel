@@ -26,7 +26,6 @@
     Al click delle frecce, oltre al cambio di immagine attiva, gestire il cambio di miniatura attiva.
     Prima di partire a scrivere codice:
     Non lasciamoci spaventare dalla complessità apparente dell'esercizio, ma analizziamo prima, come abbiamo fatto sempre, cosa ci potrebbe aspettare. Abbiamo completato ormai da qualche giorno la sessione HTML e CSS, se non ci ricordiamo qualcosa andiamo pure a riguardare alcuni argomenti. Non dedichiamo però al ripasso più di una mezz'ora, così da non perdere di vista il focus dell'esercizio.
-    Consigli del giorno:
 
 ## Tecnologie
 
